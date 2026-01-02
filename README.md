@@ -11,4 +11,5 @@ This bot is designed to integrate with a Roblox game server, providing logs, aut
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git
+   git clone https://github.com/nicolascouto001/roblox-discord-bot.git
+
